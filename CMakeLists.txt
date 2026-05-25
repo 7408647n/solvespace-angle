@@ -1,5 +1,5 @@
-cmake_minimum_required(VERSION 3.5 FATAL_ERROR)
-cmake_policy(VERSION 3.1.0)
+cmake_minimum_required(VERSION 3.10...3.25)
+cmake_policy(VERSION 3.10...3.25)
 set(CMAKE_MODULE_PATH ${CMAKE_MODULE_PATH}
     "${CMAKE_CURRENT_SOURCE_DIR}/cmake/")
 set(CMAKE_CXX_STANDARD 11)
