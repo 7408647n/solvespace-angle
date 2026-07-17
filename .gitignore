@@ -41,3 +41,4 @@ TestResults.qpa
 *.vsp
 *.nvuser
 buildtools/
+.DS_Store
